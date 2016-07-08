@@ -1,1 +1,2 @@
-hello word!
+﻿hello word!
+生活不易！！
